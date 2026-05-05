@@ -1,0 +1,11 @@
+Git Workflow
+=================================================================
+git command
+
+1. git init --> Create an empty git repository(local repository)
+2. git config   --global user.name "your name"
+   git config   --global user.email "your email"
+   git status
+   git add -A --> all the file
+   git add Filename.txt --> to add specific file name to  add in github
+   git add *.py  --> to add all .py file

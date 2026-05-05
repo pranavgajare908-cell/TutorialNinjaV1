@@ -1,0 +1,6 @@
+2026-05-04 12:26:14 | automation | INFO | ***** test_001_AccountRegistration Started *****
+2026-05-04 12:26:15 | automation | INFO | ***** Launching Application *****
+2026-05-04 12:26:15 | automation | INFO | ***** Clicking on MyAccount --> Registration Page *****
+2026-05-04 12:26:16 | automation | INFO | ***** Providing Customer Details for Registration *****
+2026-05-04 12:26:24 | automation | INFO | ***** Account Has Been Created *****
+2026-05-04 12:26:24 | automation | INFO | ***** test_001_AccountRegistration Ended *****
