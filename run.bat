@@ -1,1 +1,1 @@
-python -m pytest -s -v testCases -m regression
+python -m pytest -s -v testCases -m "regression"
